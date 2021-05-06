@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-status-bar-usb 20090508135846\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.05.08 13:58+0300\n"
+"PO-Revision-Date: 2009.05.08 13:58+0300\n"
+"Last-Translator:\n"
+"Language-Team: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "stab_me_usb_cannot_connect"
+msgstr ""
+"Impossibile stabilire una connessione.\n"
+"Dispositivo non supportato."
+
+msgid "stab_me_usb_cannot_eject"
+msgstr "%s in uso. Impossibile disconnettere. Chiudere i file nel dispositivo."
+
+msgid "stab_me_usb_cannot_eject_ok"
+msgstr "OK"
+
+msgid "stab_me_usb_connected"
+msgstr "Connessione PC attiva"
+
+msgid "stab_me_usb_connected_to"
+msgstr "Connesso a %s"
+
+msgid "stab_me_usb_device_name"
+msgstr "Dispositivo USB"
+
+msgid "stab_me_usb_eject"
+msgstr "Disconnetti %s"
+
+msgid "stab_me_usb_ejected"
+msgstr ""
+"%s disconnesso.\n"
+"Rimuovere il cavo."
+
+msgid "stab_me_usb_ejecting"
+msgstr "Disconnessione %s in corso"
+
+msgid "stab_me_usb_no_file_system_available"
+msgstr "Impossibile connettersi , nessun file system disponibile"
+
+msgid "stab_me_usb_otg_host_not_connected"
+msgstr "L'host USB non risponde"
+
+msgid "stab_me_usb_otg_hub_not_supported"
+msgstr "Topologia hub non supportata"
+
+msgid "stab_me_usb_otg_hub_support"
+msgstr "Hub USB non supportato"
+
+msgid "stab_me_usb_otg_not_connected"
+msgstr "Dispositivo USB non connesso"
+
+msgid "stab_me_usb_otg_not_responding"
+msgstr "Il dispositivo USB non risponde"
+
+msgid "stab_me_usb_otg_not_supported"
+msgstr "Dispositivo USB non supportato"
+
+msgid "stab_me_usb_otg_vbus_shutdown"
+msgstr "Chiusura USB"
+
+msgid "stab_ti_usb_connected_to_%s"
+msgstr "Connesso a %s"
+
+msgid "usbh_bd_usb_mode_mass_storage"
+msgstr "Modalità memoria di massa"
+
+msgid "usbh_bd_usb_mode_pc_suite"
+msgstr "Modalità PC Suite"
+
+msgid "usbh_ib_mmc_usb_connected"
+msgstr ""
+"Memoria non disponibile.\n"
+"Cavo USB collegato."
+
+msgid "usbh_ib_usb_device_poweruse"
+msgstr ""
+"Il dispositivo utilizza troppa energia.\n"
+"Rimuovere il cavo USB."
+
+msgid "usbh_li_current_state"
+msgstr "Stato attuale: solo carica"
+
+msgid "usbh_menu_plugin_li_charging_only"
+msgstr "Solo carica"
+
+msgid "usbh_menu_plugin_li_connected_to_%s"
+msgstr "Connesso a %s"
+
+msgid "usbh_menu_plugin_li_mass_storage"
+msgstr "Modalità memoria di massa"
+
+msgid "usbh_menu_plugin_li_pc_suite"
+msgstr "Modalità PC Suite"
+
+msgid "usbh_menu_plugin_title"
+msgstr "USB collegato"
+
+msgid "usbh_menu_plugin_va_charging_only"
+msgstr "Solo carica"
+
+msgid "usbh_menu_plugin_va_connected_to_%s"
+msgstr "Connesso a %s"
+
+msgid "usbh_menu_plugin_va_mass_storage"
+msgstr "Modalità memoria di massa"
+
+msgid "usbh_menu_plugin_va_pc_suite"
+msgstr "Modalità PC Suite"

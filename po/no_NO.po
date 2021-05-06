@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-status-bar-usb 20090508135846\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.05.08 13:58+0300\n"
+"PO-Revision-Date: 2009.05.08 13:58+0300\n"
+"Last-Translator:\n"
+"Language-Team: no_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "stab_me_usb_cannot_connect"
+msgstr ""
+"Kan ikke koble til.\n"
+"Enheten støttes ikke."
+
+msgid "stab_me_usb_cannot_eject"
+msgstr "%s i bruk. Kan ikke koble fra. Lukk filene på enheten."
+
+msgid "stab_me_usb_cannot_eject_ok"
+msgstr "OK"
+
+msgid "stab_me_usb_connected"
+msgstr "PC-tilkobling aktiv"
+
+msgid "stab_me_usb_connected_to"
+msgstr "Koblet til %s"
+
+msgid "stab_me_usb_device_name"
+msgstr "USB-enhet"
+
+msgid "stab_me_usb_eject"
+msgstr "Koble fra %s"
+
+msgid "stab_me_usb_ejected"
+msgstr ""
+"%s frakoblet.\n"
+"Fjern kabel."
+
+msgid "stab_me_usb_ejecting"
+msgstr "Kobler fra %s"
+
+msgid "stab_me_usb_no_file_system_available"
+msgstr "Kan ikke koble til. Det finnes ikke noe filsystem"
+
+msgid "stab_me_usb_otg_host_not_connected"
+msgstr "USB-verten svarer ikke"
+
+msgid "stab_me_usb_otg_hub_not_supported"
+msgstr "Hub-topologien støttes ikke"
+
+msgid "stab_me_usb_otg_hub_support"
+msgstr "USB-huben støttes ikke"
+
+msgid "stab_me_usb_otg_not_connected"
+msgstr "USB-enheten er ikke tilkoblet"
+
+msgid "stab_me_usb_otg_not_responding"
+msgstr "USB-enheten svarer ikke"
+
+msgid "stab_me_usb_otg_not_supported"
+msgstr "USB-enheten støttes ikke"
+
+msgid "stab_me_usb_otg_vbus_shutdown"
+msgstr "USB-avslutning"
+
+msgid "stab_ti_usb_connected_to_%s"
+msgstr "Koblet til %s"
+
+msgid "usbh_bd_usb_mode_mass_storage"
+msgstr "Masselagringsmodus"
+
+msgid "usbh_bd_usb_mode_pc_suite"
+msgstr "PC Suite-modus"
+
+msgid "usbh_ib_mmc_usb_connected"
+msgstr ""
+"Minnet er ikke tilgjengelig.\n"
+"USB-kabelen er tilkoblet."
+
+msgid "usbh_ib_usb_device_poweruse"
+msgstr ""
+"Enheten bruker for mye strøm.\n"
+"Fjern USB-kabel."
+
+msgid "usbh_li_current_state"
+msgstr "Gjeldende tilstand: Bare lading"
+
+msgid "usbh_menu_plugin_li_charging_only"
+msgstr "Bare lading"
+
+msgid "usbh_menu_plugin_li_connected_to_%s"
+msgstr "Koblet til %s"
+
+msgid "usbh_menu_plugin_li_mass_storage"
+msgstr "Masselagringsmodus"
+
+msgid "usbh_menu_plugin_li_pc_suite"
+msgstr "PC Suite-modus"
+
+msgid "usbh_menu_plugin_title"
+msgstr "USB tilkoblet"
+
+msgid "usbh_menu_plugin_va_charging_only"
+msgstr "Bare lading"
+
+msgid "usbh_menu_plugin_va_connected_to_%s"
+msgstr "Koblet til %s"
+
+msgid "usbh_menu_plugin_va_mass_storage"
+msgstr "Masselagringsmodus"
+
+msgid "usbh_menu_plugin_va_pc_suite"
+msgstr "PC Suite-modus"

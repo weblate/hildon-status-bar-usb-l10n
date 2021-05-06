@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-status-bar-usb 20090508135846\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.05.08 13:58+0300\n"
+"PO-Revision-Date: 2009.05.08 13:58+0300\n"
+"Last-Translator:\n"
+"Language-Team: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "stab_me_usb_cannot_connect"
+msgstr ""
+"Kan geen verbinding maken.\n"
+"Apparaat niet ondersteund."
+
+msgid "stab_me_usb_cannot_eject"
+msgstr ""
+"%s in gebruik. Kan verbinding niet verbreken. Sluit bestanden op apparaat."
+
+msgid "stab_me_usb_cannot_eject_ok"
+msgstr "OK"
+
+msgid "stab_me_usb_connected"
+msgstr "Pc-verbinding actief"
+
+msgid "stab_me_usb_connected_to"
+msgstr "Verbonden met %s"
+
+msgid "stab_me_usb_device_name"
+msgstr "USB-apparaat"
+
+msgid "stab_me_usb_eject"
+msgstr "Verbinding met %s verbreken"
+
+msgid "stab_me_usb_ejected"
+msgstr ""
+"Verbinding met %s verbroken.\n"
+"Verwijder kabel."
+
+msgid "stab_me_usb_ejecting"
+msgstr "Verbinding met %s verbreken"
+
+msgid "stab_me_usb_no_file_system_available"
+msgstr "Kan geen verbinding maken, geen bestandssysteem beschikbaar"
+
+msgid "stab_me_usb_otg_host_not_connected"
+msgstr "USB-host reageert niet"
+
+msgid "stab_me_usb_otg_hub_not_supported"
+msgstr "Hub-topologie wordt niet ondersteund"
+
+msgid "stab_me_usb_otg_hub_support"
+msgstr "USB-hub niet ondersteund"
+
+msgid "stab_me_usb_otg_not_connected"
+msgstr "USB-apparaat niet aangesloten"
+
+msgid "stab_me_usb_otg_not_responding"
+msgstr "USB-apparaat reageert niet"
+
+msgid "stab_me_usb_otg_not_supported"
+msgstr "USB-apparaat niet ondersteund"
+
+msgid "stab_me_usb_otg_vbus_shutdown"
+msgstr "USB wordt afgesloten"
+
+msgid "stab_ti_usb_connected_to_%s"
+msgstr "Verbonden met %s"
+
+msgid "usbh_bd_usb_mode_mass_storage"
+msgstr "Modus massa-opslag"
+
+msgid "usbh_bd_usb_mode_pc_suite"
+msgstr "Modus PC Suite"
+
+msgid "usbh_ib_mmc_usb_connected"
+msgstr ""
+"Geheugen niet beschikbaar.\n"
+"USB-kabel aangesloten."
+
+msgid "usbh_ib_usb_device_poweruse"
+msgstr ""
+"Apparaat gebruikt teveel stroom.\n"
+"Verwijder USB-kabel."
+
+msgid "usbh_li_current_state"
+msgstr "Huidige status: Alleen opladen"
+
+msgid "usbh_menu_plugin_li_charging_only"
+msgstr "Alleen opladen"
+
+msgid "usbh_menu_plugin_li_connected_to_%s"
+msgstr "Verbonden met %s"
+
+msgid "usbh_menu_plugin_li_mass_storage"
+msgstr "Modus massa-opslag"
+
+msgid "usbh_menu_plugin_li_pc_suite"
+msgstr "Modus PC Suite"
+
+msgid "usbh_menu_plugin_title"
+msgstr "USB verbonden"
+
+msgid "usbh_menu_plugin_va_charging_only"
+msgstr "Alleen opladen"
+
+msgid "usbh_menu_plugin_va_connected_to_%s"
+msgstr "Verbonden met %s"
+
+msgid "usbh_menu_plugin_va_mass_storage"
+msgstr "Modus massa-opslag"
+
+msgid "usbh_menu_plugin_va_pc_suite"
+msgstr "Modus PC Suite"

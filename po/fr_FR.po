@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-status-bar-usb 20090508135846\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.05.08 13:58+0300\n"
+"PO-Revision-Date: 2009.05.08 13:58+0300\n"
+"Last-Translator:\n"
+"Language-Team: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1\n"
+
+msgid "stab_me_usb_cannot_connect"
+msgstr ""
+"Connexion impossible.\n"
+"Terminal non pris en charge."
+
+msgid "stab_me_usb_cannot_eject"
+msgstr ""
+"%s utilisé. Déconnexion impossible. Fermer les fichiers sur le terminal."
+
+msgid "stab_me_usb_cannot_eject_ok"
+msgstr "OK"
+
+msgid "stab_me_usb_connected"
+msgstr "Connexion au PC active"
+
+msgid "stab_me_usb_connected_to"
+msgstr "Connecté à %s"
+
+msgid "stab_me_usb_device_name"
+msgstr "Terminal USB"
+
+msgid "stab_me_usb_eject"
+msgstr "Déconnecter %s"
+
+msgid "stab_me_usb_ejected"
+msgstr ""
+"%s déconnecté.\n"
+"Retirer le câble."
+
+msgid "stab_me_usb_ejecting"
+msgstr "Déconnexion de %s"
+
+msgid "stab_me_usb_no_file_system_available"
+msgstr "Connexion impossible, aucun système de fichiers disponible."
+
+msgid "stab_me_usb_otg_host_not_connected"
+msgstr "Hôte USB ne répond pas"
+
+msgid "stab_me_usb_otg_hub_not_supported"
+msgstr "Topologie de concentrateur non prise en charge"
+
+msgid "stab_me_usb_otg_hub_support"
+msgstr "Concentrateur USB non pris en charge"
+
+msgid "stab_me_usb_otg_not_connected"
+msgstr "Terminal USB non connecté"
+
+msgid "stab_me_usb_otg_not_responding"
+msgstr "Terminal USB ne répond pas"
+
+msgid "stab_me_usb_otg_not_supported"
+msgstr "Terminal USB non pris en charge"
+
+msgid "stab_me_usb_otg_vbus_shutdown"
+msgstr "Fermeture USB"
+
+msgid "stab_ti_usb_connected_to_%s"
+msgstr "Connecté à %s"
+
+msgid "usbh_bd_usb_mode_mass_storage"
+msgstr "Mode stockage de masse"
+
+msgid "usbh_bd_usb_mode_pc_suite"
+msgstr "Mode PC Suite"
+
+msgid "usbh_ib_mmc_usb_connected"
+msgstr ""
+"Carte mémoire non disponible.\n"
+"Câble USB connecté."
+
+msgid "usbh_ib_usb_device_poweruse"
+msgstr ""
+"L'appareil consomme trop d'énergie.\n"
+"Supprimer le câble USB."
+
+msgid "usbh_li_current_state"
+msgstr "État actuel : En charge uniquement"
+
+msgid "usbh_menu_plugin_li_charging_only"
+msgstr "En charge uniquement"
+
+msgid "usbh_menu_plugin_li_connected_to_%s"
+msgstr "Connecté à %s"
+
+msgid "usbh_menu_plugin_li_mass_storage"
+msgstr "Mode Mémoire auxiliaire"
+
+msgid "usbh_menu_plugin_li_pc_suite"
+msgstr "Mode PC Suite"
+
+msgid "usbh_menu_plugin_title"
+msgstr "Connexion via USB"
+
+msgid "usbh_menu_plugin_va_charging_only"
+msgstr "En charge uniquement"
+
+msgid "usbh_menu_plugin_va_connected_to_%s"
+msgstr "Connecté à %s"
+
+msgid "usbh_menu_plugin_va_mass_storage"
+msgstr "Mode stockage de masse"
+
+msgid "usbh_menu_plugin_va_pc_suite"
+msgstr "Mode PC Suite"

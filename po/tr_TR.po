@@ -33,13 +33,16 @@ msgstr ""
 "Project-Id-Version: hildon-status-bar-usb 20090508135846\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2009.05.08 13:58+0300\n"
-"PO-Revision-Date: 2010-02-02 10:20+0200\n"
-"Last-Translator: Aranel Surion <aranel@aranelsurion.org>\n"
-"Language-Team: tr_TR\n"
+"PO-Revision-Date: 2021-05-26 12:32+0000\n"
+"Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
+"Language-Team: Turkish <https://hosted.weblate.org/projects/maemo-leste/"
+"hildon-status-bar-usb-l10n/tr/>\n"
+"Language: tr_TR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.7-dev\n"
 
 # CON-INF012
 msgid "stab_me_usb_connected"
@@ -123,7 +126,7 @@ msgstr "Sadece şarj"
 
 # %s is the name of the connected device
 msgid "usbh_menu_plugin_va_connected_to_%s"
-msgstr " %s bağlandı"
+msgstr "%s bağlandı"
 
 # Mass storage mode
 msgid "usbh_menu_plugin_va_mass_storage"
@@ -180,4 +183,3 @@ msgid "usbh_ib_mmc_usb_connected"
 msgstr ""
 "Hafıza kullanılamaz.\n"
 "USB kablosu takılı."
-

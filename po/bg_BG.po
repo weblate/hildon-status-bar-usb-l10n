@@ -1,0 +1,111 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.05.08 13:58+0300\n"
+"PO-Revision-Date: 2010-11-30 11:31+0000\n"
+"Last-Translator: \n"
+"Language-Team: Bulgarian (http://www.transifex.net/projects/p/n900-extra-translations/language/bg/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "stab_me_usb_cannot_connect"
+msgstr "Неуспешно свързване.\nУстройството не се поддържа."
+
+msgid "stab_me_usb_cannot_eject"
+msgstr "%s се използва. Неуспешно откачане. Затворете файловете на устройството."
+
+msgid "stab_me_usb_cannot_eject_ok"
+msgstr "Добре"
+
+msgid "stab_me_usb_connected"
+msgstr "Връзката с компютър е активна"
+
+msgid "stab_me_usb_connected_to"
+msgstr "Свързано с %s"
+
+msgid "stab_me_usb_device_name"
+msgstr "USB устройство"
+
+msgid "stab_me_usb_eject"
+msgstr "Откачено от %s"
+
+msgid "stab_me_usb_ejected"
+msgstr "%s е откачен.\nМахнете кабела."
+
+msgid "stab_me_usb_ejecting"
+msgstr "Откачане на %s"
+
+msgid "stab_me_usb_no_file_system_available"
+msgstr "Неуспешно свързване, няма файлова система"
+
+msgid "stab_me_usb_otg_host_not_connected"
+msgstr "USB хостът не отговаря"
+
+msgid "stab_me_usb_otg_hub_not_supported"
+msgstr "Неподдържана USB топология"
+
+msgid "stab_me_usb_otg_hub_support"
+msgstr "USB хъбът не се поддържа"
+
+msgid "stab_me_usb_otg_not_connected"
+msgstr "USB устройството не е свързано"
+
+msgid "stab_me_usb_otg_not_responding"
+msgstr "USB устройството не отговаря"
+
+msgid "stab_me_usb_otg_not_supported"
+msgstr "USB устройството не се поддържа"
+
+msgid "stab_me_usb_otg_vbus_shutdown"
+msgstr "Изключване на USB"
+
+msgid "stab_ti_usb_connected_to_%s"
+msgstr "Свързано с %s"
+
+msgid "usbh_bd_usb_mode_mass_storage"
+msgstr "Режим на файлов достъп"
+
+msgid "usbh_bd_usb_mode_pc_suite"
+msgstr "Режим на връзка с PC Suite"
+
+msgid "usbh_ib_mmc_usb_connected"
+msgstr "Паметта не е достъпна.\nUSB кабелът е свързан."
+
+msgid "usbh_ib_usb_device_poweruse"
+msgstr "Устройството използва твърде много захранване.\nМахнете USB кабела."
+
+msgid "usbh_li_current_state"
+msgstr "Текущо състояние: Само зареждане"
+
+msgid "usbh_menu_plugin_li_charging_only"
+msgstr "Само зареждане"
+
+msgid "usbh_menu_plugin_li_connected_to_%s"
+msgstr "Свързано с %s"
+
+msgid "usbh_menu_plugin_li_mass_storage"
+msgstr "Режим на файлов достъп"
+
+msgid "usbh_menu_plugin_li_pc_suite"
+msgstr "Режим на връзка с PC Suite"
+
+msgid "usbh_menu_plugin_title"
+msgstr "USB e свързан"
+
+msgid "usbh_menu_plugin_va_charging_only"
+msgstr "Само зареждане"
+
+msgid "usbh_menu_plugin_va_connected_to_%s"
+msgstr "Свързано с %s"
+
+msgid "usbh_menu_plugin_va_mass_storage"
+msgstr "Режим на файлов достъп"
+
+msgid "usbh_menu_plugin_va_pc_suite"
+msgstr "Режим на връзка с PC Suite"

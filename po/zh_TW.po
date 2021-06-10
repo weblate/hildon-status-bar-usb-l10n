@@ -1,0 +1,111 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.05.08 13:58+0300\n"
+"PO-Revision-Date: 2010-11-30 11:31+0000\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_TW\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "stab_me_usb_cannot_connect"
+msgstr "無法連線.\n裝置不被支援."
+
+msgid "stab_me_usb_cannot_eject"
+msgstr "%s 正在使用中. 無法中斷. 請在裝置上關閉檔案."
+
+msgid "stab_me_usb_cannot_eject_ok"
+msgstr "確定"
+
+msgid "stab_me_usb_connected"
+msgstr "已連接電腦"
+
+msgid "stab_me_usb_connected_to"
+msgstr "已連接至 %s"
+
+msgid "stab_me_usb_device_name"
+msgstr "USB 裝置"
+
+msgid "stab_me_usb_eject"
+msgstr "中斷 %s"
+
+msgid "stab_me_usb_ejected"
+msgstr "%s請移除USB線."
+
+msgid "stab_me_usb_ejecting"
+msgstr "中斷 %s"
+
+msgid "stab_me_usb_no_file_system_available"
+msgstr "無法連線,沒有可用的檔案系統"
+
+msgid "stab_me_usb_otg_host_not_connected"
+msgstr "USB 主機無回應"
+
+msgid "stab_me_usb_otg_hub_not_supported"
+msgstr "不支援的集線器拓撲型態"
+
+msgid "stab_me_usb_otg_hub_support"
+msgstr "不支援的USB 集線器"
+
+msgid "stab_me_usb_otg_not_connected"
+msgstr "未連接USB裝置"
+
+msgid "stab_me_usb_otg_not_responding"
+msgstr "USB裝置沒有回應"
+
+msgid "stab_me_usb_otg_not_supported"
+msgstr "不支援的USB裝置"
+
+msgid "stab_me_usb_otg_vbus_shutdown"
+msgstr "USB 連接埠中斷"
+
+msgid "stab_ti_usb_connected_to_%s"
+msgstr "已連接至 %s"
+
+msgid "usbh_bd_usb_mode_mass_storage"
+msgstr "大容量儲存裝置"
+
+msgid "usbh_bd_usb_mode_pc_suite"
+msgstr "電腦端套件"
+
+msgid "usbh_ib_mmc_usb_connected"
+msgstr "記憶體無法使用.\nUSB線已連接."
+
+msgid "usbh_ib_usb_device_poweruse"
+msgstr "裝置用電過量.\n請移除USB線."
+
+msgid "usbh_li_current_state"
+msgstr "目前狀態: 僅充電"
+
+msgid "usbh_menu_plugin_li_charging_only"
+msgstr "僅充電"
+
+msgid "usbh_menu_plugin_li_connected_to_%s"
+msgstr "已連接至 %s"
+
+msgid "usbh_menu_plugin_li_mass_storage"
+msgstr "大容量儲存裝置"
+
+msgid "usbh_menu_plugin_li_pc_suite"
+msgstr "電腦端套件"
+
+msgid "usbh_menu_plugin_title"
+msgstr "USB已連接"
+
+msgid "usbh_menu_plugin_va_charging_only"
+msgstr "僅充電"
+
+msgid "usbh_menu_plugin_va_connected_to_%s"
+msgstr "已連接至 %s"
+
+msgid "usbh_menu_plugin_va_mass_storage"
+msgstr "大容量儲存裝置"
+
+msgid "usbh_menu_plugin_va_pc_suite"
+msgstr "電腦端套件"

@@ -1,0 +1,111 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.05.08 13:58+0300\n"
+"PO-Revision-Date: 2010-11-30 11:31+0000\n"
+"Last-Translator: \n"
+"Language-Team: Korean (http://www.transifex.net/projects/p/n900-extra-translations/language/ko/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "stab_me_usb_cannot_connect"
+msgstr "연결할 수 없습니다.\n장치가 지원되지 않습니다."
+
+msgid "stab_me_usb_cannot_eject"
+msgstr "%s 이 사용 중이여서 연결을 해제할 수 없습니다. 장치에서 사용 중인 파일을 닫아주세요."
+
+msgid "stab_me_usb_cannot_eject_ok"
+msgstr "확인"
+
+msgid "stab_me_usb_connected"
+msgstr "PC와의 연결이 활성화 되었습니다"
+
+msgid "stab_me_usb_connected_to"
+msgstr "%s 와 연결되었습니다 "
+
+msgid "stab_me_usb_device_name"
+msgstr "USB 장치"
+
+msgid "stab_me_usb_eject"
+msgstr "%s 와 연결해제"
+
+msgid "stab_me_usb_ejected"
+msgstr "%s 와 연결이 해제 되었습니다.\n케이블을 제거해주세요."
+
+msgid "stab_me_usb_ejecting"
+msgstr "%s 와 연결을 해제 하고 있습니다"
+
+msgid "stab_me_usb_no_file_system_available"
+msgstr "사용 가능한 파일시스템이 존재하지 않아 연결할 수 없습니다"
+
+msgid "stab_me_usb_otg_host_not_connected"
+msgstr "USB 호스트가 응답하지 않습니다"
+
+msgid "stab_me_usb_otg_hub_not_supported"
+msgstr "지원되지 않는 허브 구조 입니다"
+
+msgid "stab_me_usb_otg_hub_support"
+msgstr "USB 허브가 지원되지 않습니다"
+
+msgid "stab_me_usb_otg_not_connected"
+msgstr "USB 장치가 연결되지 않았습니다"
+
+msgid "stab_me_usb_otg_not_responding"
+msgstr "USB 장치가 응답하지 않습니다"
+
+msgid "stab_me_usb_otg_not_supported"
+msgstr "USB 장치가 지원되지 않습니다"
+
+msgid "stab_me_usb_otg_vbus_shutdown"
+msgstr "USB 종료됨"
+
+msgid "stab_ti_usb_connected_to_%s"
+msgstr "%s 와 연결되었습니다"
+
+msgid "usbh_bd_usb_mode_mass_storage"
+msgstr "대용량 저장소 모드"
+
+msgid "usbh_bd_usb_mode_pc_suite"
+msgstr "PC Suite 모드"
+
+msgid "usbh_ib_mmc_usb_connected"
+msgstr "메모리를 사용할 수 없습니다.\nUSB 케이블이 연결돼 있습니다."
+
+msgid "usbh_ib_usb_device_poweruse"
+msgstr "장치가 전원을 너무 많이 소모하고 있습니다.\nUSB 케이블을 제거해주세요."
+
+msgid "usbh_li_current_state"
+msgstr "현재 상태: 충전 중"
+
+msgid "usbh_menu_plugin_li_charging_only"
+msgstr "충전 중"
+
+msgid "usbh_menu_plugin_li_connected_to_%s"
+msgstr "%s 와 연결되었습니다"
+
+msgid "usbh_menu_plugin_li_mass_storage"
+msgstr "대용량 저장소 모드"
+
+msgid "usbh_menu_plugin_li_pc_suite"
+msgstr "PC Suite 모드"
+
+msgid "usbh_menu_plugin_title"
+msgstr "USB 연결됨"
+
+msgid "usbh_menu_plugin_va_charging_only"
+msgstr "충전 중"
+
+msgid "usbh_menu_plugin_va_connected_to_%s"
+msgstr "%s 와 연결되었습니다"
+
+msgid "usbh_menu_plugin_va_mass_storage"
+msgstr "대용량 저장소 모드"
+
+msgid "usbh_menu_plugin_va_pc_suite"
+msgstr "PC Suite 모드"

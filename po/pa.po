@@ -1,0 +1,111 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.05.08 13:58+0300\n"
+"PO-Revision-Date: 2010-11-30 11:31+0000\n"
+"Last-Translator: \n"
+"Language-Team: Panjabi (Punjabi) (http://www.transifex.net/projects/p/n900-extra-translations/language/pa/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pa\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "stab_me_usb_cannot_connect"
+msgstr "ਕੁਨੈਕਟ ਕਰਨ ਲਈ ਅਸਮਰੱਥ\nਜੰਤਰ ਸਹਾਇਕ ਨਹੀਂ ਹੈ।"
+
+msgid "stab_me_usb_cannot_eject"
+msgstr "%s ਵਰਤੋਂ 'ਚ ਹੈ। ਡਿਸ-ਕੁਨੈਕਟ ਕਰਨ ਲਈ ਅਸਮਰੱਥ। ਜੰਤਰ ਤੋਂ ਫਾਇਲਾਂ ਬੰਦ ਕਰੋ।"
+
+msgid "stab_me_usb_cannot_eject_ok"
+msgstr "ਠੀਕ ਹੈ"
+
+msgid "stab_me_usb_connected"
+msgstr "PC ਕੁਨੈਕਸ਼ਨ ਐਕਟਿਵ ਹੈ"
+
+msgid "stab_me_usb_connected_to"
+msgstr "%s ਨਾਲ ਕੁਨੈਕਟ ਹੈ।"
+
+msgid "stab_me_usb_device_name"
+msgstr "USB ਜੰਤਰ"
+
+msgid "stab_me_usb_eject"
+msgstr "%s ਡਿਸ-ਕੁਨੈਕਟ"
+
+msgid "stab_me_usb_ejected"
+msgstr "%s ਡਿਸ-ਕੁਨੈਕਟ ਹੈ।\nਕੇਬਲ ਹਟਾਓ"
+
+msgid "stab_me_usb_ejecting"
+msgstr "%s ਡਿਸ-ਕੁਨੈਕਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
+
+msgid "stab_me_usb_no_file_system_available"
+msgstr "ਕੁਨੈਕਟ ਕਰਨ ਲਈ ਅਸਮਰੱਥ ਹੈ। ਕੋਈ ਫਾਇਲ ਸਿਸਟਮ ਉਪਲੱਬਧ ਨਹੀਂ"
+
+msgid "stab_me_usb_otg_host_not_connected"
+msgstr "USB ਹੋਸਟ ਜਵਾਬ ਨਹੀਂ ਦੇ ਰਿਹਾ"
+
+msgid "stab_me_usb_otg_hub_not_supported"
+msgstr "ਗ਼ੈਰ-ਸਹਾਇਕ ਹੱਬ ਟਪਾਲੋਜੀ"
+
+msgid "stab_me_usb_otg_hub_support"
+msgstr "USB ਹੱਬ ਸਹਾਇਕ ਨਹੀਂ"
+
+msgid "stab_me_usb_otg_not_connected"
+msgstr "USB ਜੰਤਰ ਕੁਨੈਕਟ ਨਹੀਂ"
+
+msgid "stab_me_usb_otg_not_responding"
+msgstr "USB ਜੰਤਰ ਜਵਾਬ ਨਹੀਂ ਦੇ ਰਿਹਾ ਹੈ"
+
+msgid "stab_me_usb_otg_not_supported"
+msgstr "USB ਜੰਤਰ ਸਹਾਇਕ ਨਹੀਂ"
+
+msgid "stab_me_usb_otg_vbus_shutdown"
+msgstr "USB ਬੰਦ ਕਰੋ"
+
+msgid "stab_ti_usb_connected_to_%s"
+msgstr "%s ਨਾਲ ਕੁਨੈਕਟ ਹੈ"
+
+msgid "usbh_bd_usb_mode_mass_storage"
+msgstr "ਮਾਸ ਸਟੋਰੇਜ਼ ਮੋਡ"
+
+msgid "usbh_bd_usb_mode_pc_suite"
+msgstr "PC ਸੂਟ ਮੋਡ"
+
+msgid "usbh_ib_mmc_usb_connected"
+msgstr "ਮੈਮੋਰੀ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ।\nUSB ਕੇਬਲ ਕੁਨੈਕਟ ਹੈ।"
+
+msgid "usbh_ib_usb_device_poweruse"
+msgstr "ਜੰਤਰ ਬਹੁਤ ਵੱਧ ਊਰਜਾ ਵਰਤ ਰਿਹਾ ਹੈ।\nUSB ਕੇਬਲ ਹਟਾਓ।"
+
+msgid "usbh_li_current_state"
+msgstr "ਮੌਜੂਦਾ ਹਾਲਤ: ਕੇਵਲ ਚਾਰਜ ਹੋ ਰਿਹਾ ਹੈ"
+
+msgid "usbh_menu_plugin_li_charging_only"
+msgstr "ਕੇਵਲ ਚਾਰਜ ਹੋ ਰਿਹਾ ਹੈ"
+
+msgid "usbh_menu_plugin_li_connected_to_%s"
+msgstr "%s ਨਾਲ ਕੁਨੈਕਟ ਹੈ"
+
+msgid "usbh_menu_plugin_li_mass_storage"
+msgstr "ਮਾਸ ਸਟੋਰੇਜ਼ ਮੋਡ"
+
+msgid "usbh_menu_plugin_li_pc_suite"
+msgstr "PC ਸੂਟ ਮੋਡ"
+
+msgid "usbh_menu_plugin_title"
+msgstr "USB ਕੁਨੈਕਟ ਹੈ"
+
+msgid "usbh_menu_plugin_va_charging_only"
+msgstr "ਕੇਵਲ ਚਾਰਜ ਹੋ ਰਿਹਾ ਹੈ"
+
+msgid "usbh_menu_plugin_va_connected_to_%s"
+msgstr "%s ਨਾਲ ਕੁਨੈਕਟ ਹੈ"
+
+msgid "usbh_menu_plugin_va_mass_storage"
+msgstr "ਮਾਸ ਸਟੋਰੇਜ਼ ਮੋਡ"
+
+msgid "usbh_menu_plugin_va_pc_suite"
+msgstr "PC ਸੂਟ ਮੋਡ"

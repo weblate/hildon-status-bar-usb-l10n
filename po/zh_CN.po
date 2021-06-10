@@ -1,0 +1,111 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.05.08 13:58+0300\n"
+"PO-Revision-Date: 2010-11-30 11:31+0000\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "stab_me_usb_cannot_connect"
+msgstr "无法连接.\n设备不支持."
+
+msgid "stab_me_usb_cannot_eject"
+msgstr "%s 正在被使用. 无法断开连接. 请关闭设备中的文件."
+
+msgid "stab_me_usb_cannot_eject_ok"
+msgstr "确定"
+
+msgid "stab_me_usb_connected"
+msgstr "PC 连接已激活"
+
+msgid "stab_me_usb_connected_to"
+msgstr "连接到 %s"
+
+msgid "stab_me_usb_device_name"
+msgstr "USB 设备"
+
+msgid "stab_me_usb_eject"
+msgstr "断开 %s"
+
+msgid "stab_me_usb_ejected"
+msgstr "%s清空缓存."
+
+msgid "stab_me_usb_ejecting"
+msgstr "正在断开 %s"
+
+msgid "stab_me_usb_no_file_system_available"
+msgstr "无法连接, 没有可用的文件系统"
+
+msgid "stab_me_usb_otg_host_not_connected"
+msgstr "USB 主机没有回应"
+
+msgid "stab_me_usb_otg_hub_not_supported"
+msgstr "不支持的集线器拓扑"
+
+msgid "stab_me_usb_otg_hub_support"
+msgstr "USB 集线器不支持"
+
+msgid "stab_me_usb_otg_not_connected"
+msgstr "USB 设备没有连接"
+
+msgid "stab_me_usb_otg_not_responding"
+msgstr "USB 设备没有回应"
+
+msgid "stab_me_usb_otg_not_supported"
+msgstr "USB 设备不支持"
+
+msgid "stab_me_usb_otg_vbus_shutdown"
+msgstr "USB 接口关闭"
+
+msgid "stab_ti_usb_connected_to_%s"
+msgstr "连接到 %s"
+
+msgid "usbh_bd_usb_mode_mass_storage"
+msgstr "内置存储器模式"
+
+msgid "usbh_bd_usb_mode_pc_suite"
+msgstr "PC 套件模式"
+
+msgid "usbh_ib_mmc_usb_connected"
+msgstr "外置存储卡不存在\nUSB线已连接."
+
+msgid "usbh_ib_usb_device_poweruse"
+msgstr "设备耗电量过大，\n断开"
+
+msgid "usbh_li_current_state"
+msgstr "目前状态: 仅充电"
+
+msgid "usbh_menu_plugin_li_charging_only"
+msgstr "仅充电"
+
+msgid "usbh_menu_plugin_li_connected_to_%s"
+msgstr "已连接到 %s"
+
+msgid "usbh_menu_plugin_li_mass_storage"
+msgstr "内置存储器模式"
+
+msgid "usbh_menu_plugin_li_pc_suite"
+msgstr "PC 套件模式"
+
+msgid "usbh_menu_plugin_title"
+msgstr "USB 已连接"
+
+msgid "usbh_menu_plugin_va_charging_only"
+msgstr "仅充电"
+
+msgid "usbh_menu_plugin_va_connected_to_%s"
+msgstr "已连接到 %s"
+
+msgid "usbh_menu_plugin_va_mass_storage"
+msgstr "内置存储器模式"
+
+msgid "usbh_menu_plugin_va_pc_suite"
+msgstr "PC 套件模式"

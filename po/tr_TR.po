@@ -33,8 +33,8 @@ msgstr ""
 "Project-Id-Version: hildon-status-bar-usb 20090508135846\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2009.05.08 13:58+0300\n"
-"PO-Revision-Date: 2021-05-26 12:32+0000\n"
-"Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
+"PO-Revision-Date: 2024-08-12 11:09+0000\n"
+"Last-Translator: Oğuz Ersen <oguz@ersen.moe>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/maemo-leste/"
 "hildon-status-bar-usb-l10n/tr/>\n"
 "Language: tr_TR\n"
@@ -42,7 +42,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.7-dev\n"
+"X-Generator: Weblate 5.7-dev\n"
 
 # CON-INF012
 msgid "stab_me_usb_connected"
@@ -50,7 +50,7 @@ msgstr "PC bağlantısı aktif"
 
 #
 msgid "stab_me_usb_device_name"
-msgstr "USB cihazı"
+msgstr "USB aygıtı"
 
 #
 msgid "stab_me_usb_connected_to"
@@ -72,7 +72,7 @@ msgstr ""
 
 #
 msgid "stab_me_usb_cannot_eject"
-msgstr "%s kullanımda. Bağlantı kesilemiyor. Cihazdaki dosyaları kapatın."
+msgstr "%s kullanımda. Bağlantı kesilemiyor. Aygıttaki dosyaları kapatın."
 
 #
 msgid "stab_me_usb_cannot_eject_ok"
@@ -82,7 +82,7 @@ msgstr "OK"
 msgid "stab_me_usb_cannot_connect"
 msgstr ""
 "Bağlanılamıyor.\n"
-"Cihaz desteklenmiyor."
+"Aygıt desteklenmiyor."
 
 #
 msgid "stab_me_usb_no_file_system_available"
@@ -90,15 +90,15 @@ msgstr "Bağlanılamıyor, dosya sistemi mevcut değil"
 
 #
 msgid "stab_me_usb_otg_not_connected"
-msgstr "USB cihazı bağlı değil"
+msgstr "USB aygıtı bağlı değil"
 
 #
 msgid "stab_me_usb_otg_not_responding"
-msgstr "USB cihazı cevap vermiyor"
+msgstr "USB aygıtı cevap vermiyor"
 
 #
 msgid "stab_me_usb_otg_not_supported"
-msgstr "USB cihazı desteklenmiyor"
+msgstr "USB aygıtı desteklenmiyor"
 
 #
 msgid "stab_me_usb_otg_host_not_connected"
@@ -174,7 +174,7 @@ msgstr "PC Suite modu"
 #
 msgid "usbh_ib_usb_device_poweruse"
 msgstr ""
-"Cihaz çok fazla güç kullanıyor.\n"
+"Aygıt çok fazla güç kullanıyor.\n"
 "USB kablosunu kaldırın."
 
 # An application tries to access memory card when the device is connected to PC with USB.
